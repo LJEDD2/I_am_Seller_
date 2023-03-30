@@ -99,3 +99,40 @@ Olist 입점 성공 방법을 얻고 싶다.
 
 ---
 
+## Report 
+<!-- INTRO -->
+![img0](img/슬라이드1.PNG)
+![img1](img/슬라이드4.PNG)
+![img2](img/슬라이드8.PNG)
+
+<!-- 쇼핑몰과 상품 분석 -->
+![img4](img/슬라이드11.PNG)
+![img5](img/슬라이드12.PNG)
+![img6](img/슬라이드13.PNG)
+![img7](img/슬라이드14.PNG)
+![img8](img/슬라이드15.PNG)
+![img9](img/슬라이드16.PNG)
+![img10](img/슬라이드17.PNG)
+
+<!-- 경쟁자 분석 -->
+![img3](img/슬라이드9.PNG)
+![img12](img/슬라이드20.PNG)
+![img13](img/슬라이드21.PNG)
+![img14](img/슬라이드22.PNG)
+![img15](img/슬라이드23.PNG)
+![img16](img/슬라이드24.PNG)
+
+
+<!--결론 -->
+![img11](img/슬라이드19.PNG)
+![img17](img/슬라이드26.PNG)
+![img18](img/슬라이드27.PNG)
+![img19](img/슬라이드28.PNG)
+![img20](img/슬라이드29.PNG)
+![img21](img/슬라이드30.PNG)
+![img22](img/슬라이드32.PNG)
+---
+
+## Reference 
+
+
