@@ -1,7 +1,6 @@
-# LIKELION AIS7 DATATHON 
+#  멋쟁이사자처럼 AI SCHOOL 제 7회 데이터톤 
 ![img0](img/슬라이드1.PNG)
 
-## 멋쟁이사자처럼AIS 제 7회 데이터톤 
 ### 🥉구운자현 - Olist에서 SELLER로 살아남기 👊
 **📌 활용 데이터** : [Kaggle | Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)    
 **📌 대회 주제** : 🌏 **Olist 온라인 쇼핑몰 데이터를 활용**하여 ```비즈니스적 가치``` 창출하기      
