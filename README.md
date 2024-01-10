@@ -149,6 +149,18 @@ Olist 입점 성공 방법을 얻고 싶다.
 ---
 
 ## Reference 
-- 작성 예정 
+
+[브라질 소비 트렌드[전문가오피니언] 소비자 구성을 통해 본 브라질 소비시장](https://www.emerics.org:446/issueDetail.es?brdctsNo=253385&mid=a10200000000&&search_option=&search_keyword=&search_year=&search_month=&search_tagkeyword=&systemcode=06&search_region=&search_area=1&currentPage=7&pageCnt=10)
+
+[브라질 지역 조사](https://namu.wiki/w/%EB%B8%8C%EB%9D%BC%EC%A7%88)
+
+[브라질 인구 통계 - 주상파울루 대한민국 총영사관](https://overseas.mofa.go.kr/br-saopaulo-ko/brd/m_6167/view.do?seq=1096092&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=)
+
+[연관 규칙 분석 (Association Rule Analysis) with Python](https://zephyrus1111.tistory.com/119)
+
+[RFM Segmentation and Customer Analysis](https://www.kaggle.com/code/ceruttivini/rfm-segmentation-and-customer-analysis)
+
+[Geospacil Analysis of Brazil-Ecommerce](https://www.kaggle.com/code/honeymustardd/geospacil-analysis-of-brazil-ecommerce)
+
 
 
